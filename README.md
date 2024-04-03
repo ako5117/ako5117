@@ -13,3 +13,4 @@ I'm Adrian Odira, a passionate Mechanical Engineer with a keen interest in the i
 📚 **Education**
 - B.S. in Mechanical Engineering
 - Minor in Computer Science
+- Adv, Diploma in Accounting & Business [ACCA, Ongoing]
