@@ -1,4 +1,4 @@
-### Adrian Odira
+### Adrian Odira, PE
 
 Mechanical Engineer | Aspiring Computer Scientist
 
