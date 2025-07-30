@@ -2,6 +2,8 @@
 
 Mechanical Engineer | Software Developer | Tech Enthusiast
 
+![Visitor Count](https://profile-counter.glitch.me/ako5117/count.svg)
+
 🔧 **About Me**  
 I'm Adrian Odira, a Mechanical Engineer with a passion for building software solutions. I bridge the gap between physical engineering and digital innovation, creating systems that combine the best of both worlds. Currently expanding my skills in full-stack development while bringing unique perspectives from mechanical engineering.
 
