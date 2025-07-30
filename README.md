@@ -9,7 +9,7 @@ I'm Adrian Odira, a Licensed Professional Engineer who bridges hardware and soft
 `ako5117` `adrian-odira`  
 
 📫 **How to reach me**  
-[Your professional email]  
+[aodira63@gmail.com]  
 
 ## 🔥 Current Focus
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ako5117&repo=your-current-project&theme=radical)](https://github.com/ako5117/your-current-project)
@@ -54,5 +54,3 @@ I'm Adrian Odira, a Licensed Professional Engineer who bridges hardware and soft
 
 ## 😄 Fun Fact
 > "I once designed a mechanical system that's now controlled by software I wrote!"
-
-![Random Dev Meme](https://random-memer.herokuapp.com/)
