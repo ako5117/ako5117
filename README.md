@@ -54,3 +54,6 @@ I'm Adrian Odira, a Licensed Professional Engineer who bridges hardware and soft
 
 ## 😄 Fun Fact
 > "I once designed a mechanical system that's now controlled by software I wrote!"
+
+<!-- Spotify currently playing -->
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/12150240368)
