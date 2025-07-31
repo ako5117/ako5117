@@ -11,9 +11,6 @@ I'm Adrian Odira, a Licensed Professional Engineer who bridges hardware and soft
 📫 **How to reach me**  
 [aodira63@gmail.com]  
 
-## 🔥 Current Focus
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ako5117&repo=your-current-project&theme=radical)](https://github.com/ako5117/your-current-project)
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -42,11 +39,6 @@ I'm Adrian Odira, a Licensed Professional Engineer who bridges hardware and soft
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-odira/)
-
-## 🚀 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ako5117&repo=project1&theme=dark)](https://github.com/ako5117/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ako5117&repo=project2&theme=dark)](https://github.com/ako5117/project2)
 
 ## 🎯 Currently Learning
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
