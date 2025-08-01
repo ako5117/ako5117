@@ -34,7 +34,8 @@ I'm Adrian Odira, a Licensed Professional Engineer who bridges hardware and soft
 | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ako5117&show_icons=true&theme=radical&hide_title=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ako5117&layout=compact&theme=radical&hide_title=true) |
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ako5117&theme=radical)
+<!-- Spotify currently playing -->
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/12150240368)
 
 ## 🌐 Connect With Me
 
@@ -47,5 +48,3 @@ I'm Adrian Odira, a Licensed Professional Engineer who bridges hardware and soft
 ## 😄 Fun Fact
 > "I once designed a mechanical system that's now controlled by software I wrote!"
 
-<!-- Spotify currently playing -->
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/12150240368)
