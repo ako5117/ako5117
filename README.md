@@ -49,14 +49,7 @@ Four orgs, one thread: using software to make real-world, physical-world operati
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ako5117&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="Adrian's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ako5117&layout=compact&theme=tokyonight&hide_title=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ako5117&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ako5117&show_icons=true&theme=tokyonight&hide_title=true" alt="Adrian's GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ako5117&layout=compact&theme=tokyonight&hide_title=true" alt="Top languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ako5117&theme=tokyonight&hide_border=true" alt="GitHub streak stats" /> </p>
 
 ## 🎯 Currently Leveling Up
 
