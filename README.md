@@ -4,9 +4,9 @@
 
 ### From blueprints to backends
 
-I started as a Licensed Professional Engineer building physical systems. Today I build the software and partnerships that run them — full-stack development, cloud infrastructure, and business development across four organizations spanning East Africa's agri-tech, retail-tech, and enterprise-AI space. That mechanical engineering discipline (measure twice, ship once) is still how I approach a codebase.
+I started as a Licensed Professional Engineer building physical systems. Today I build the software and partnerships that run them - full-stack development, cloud infrastructure, and business development across four organizations spanning East Africa's agri-tech, retail-tech, and enterprise-AI space. That mechanical engineering discipline (measure twice, ship once) is still how I approach a codebase.
 
-Based in Nairobi, Kenya 🇰🇪 — working with teams across East Africa and beyond.
+Based in Nairobi - working with teams across East Africa and beyond.
 
 ## 🚀 What I'm building
 
